@@ -27,6 +27,16 @@ This project demonstrates practical concepts including:
 - Enterprise AI Use Cases
 
 ---
+## 🎥 Featured Video
+
+### AI Can Automate Every SDLC Phase (2026)
+
+Discover how AI is transforming the Software Development Lifecycle and how AI can be applied across different phases of modern software engineering.
+
+[![Watch the Video](https://img.youtube.com/vi/-xouv9Zk2JY/maxresdefault.jpg)](https://youtu.be/-xouv9Zk2JY)
+
+**▶️ [Watch: AI Can Automate Every SDLC Phase (2026)](https://youtu.be/-xouv9Zk2JY)**
+
 
 ## Project Objectives
 
