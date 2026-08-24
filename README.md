@@ -412,53 +412,5 @@ AI Engineering is best learned by building real applications.
 
 Explore practical AI learning with EduArn and start building your own AI-powered applications.
 
-Explore EduArn AI & ML Career Accelerator
+Explore EduArn AI & ML Career Accelerator: https://eduarn.com/training/ai/ai-ml-career-accelerator-online
 
-
-### One important difference
-
-I deliberately removed things like:
-
-```text
-```text id="xxxxx"
-
-and:
-
-:::
-
-Those are not needed in a GitHub README.
-
-I also replaced the ▼ characters with simple | and v characters inside code blocks. This makes the architecture diagrams render consistently across GitHub, VS Code, GitLab, and other Markdown viewers.
-
-What your GitHub README should look like
-After saving README.md and refreshing the repository, you should see:
-
-AI HR Policy Assistant
-
-An AI-powered HR Policy Assistant...
-
-Project Overview
-
-Normal paragraphs and bullet points.
-
-Solution Architecture
-
-A properly formatted diagram in a dark code block.
-
-End-to-End Flow
-
-Another properly formatted diagram.
-
-Technology Stack
-
-A proper GitHub table.
-
-EduArn AI & ML Career Accelerator
-
-A clean CTA:
-
-EduArn AI & ML Career Accelerator
-
-And:
-
-▶ Watch: AI Can Automate Every SDLC Phase (2026)
